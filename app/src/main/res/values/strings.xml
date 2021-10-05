@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FatenGhamdi</string>
+    <string name="preference_file_key">com.example.fatenghamdi.PREFERENCE_FILE_KEY</string>
+</resources>
